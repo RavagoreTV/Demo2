@@ -22,6 +22,10 @@ namespace Demo2
 
             Console.WriteLine("nemt");
 
+            Console.WriteLine("nemt");
+
+            Console.WriteLine("nemt");
+
         }
     }
 }

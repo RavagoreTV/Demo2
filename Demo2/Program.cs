@@ -11,6 +11,17 @@ namespace Demo2
         static void Main(string[] args)
         {
             Console.WriteLine("nemt");
+
+            Console.WriteLine("nemt");
+
+            Console.WriteLine("nemt");
+
+            Console.WriteLine("nemt");
+
+            Console.WriteLine("nemt");
+
+            Console.WriteLine("nemt");
+
         }
     }
 }
